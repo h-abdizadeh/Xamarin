@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<question>
+	<id num="0">
+		<image>tesla</image>
+		<a1>توماس ادیسون</a1>
+		<a2>مایکل فارادی</a2>
+		<a3>نیکلا تسلا</a3>
+		<a4>آلن تورینگ</a4>
+		<answer>نیکلا تسلا</answer>
+	</id>
+	<id num="1">
+		<image>maryam</image>
+		<a1>ماری کوری</a1>
+		<a2>پروین اعتصامی</a2>
+		<a3>فروغ فرخ زاد</a3>
+		<a4>مریم میرزاخانی</a4>
+		<answer>مریم میرزاخانی</answer>
+	</id>
+	<id num="2">
+		<image>touring</image>
+		<a1>آلن تورینگ</a1>
+		<a2>جیمز وب</a2>
+		<a3>جان دالتون</a3>
+		<a4>مایکل فارادی</a4>
+		<answer>آلن تورینگ</answer>
+	</id>
+	<id num="3">
+		<image>hesabi</image>
+		<a1>علی شریعتی</a1>
+		<a2>مجید حسابی</a2>
+		<a3>مجید صمیعی</a3>
+		<a4>فضل الله رضا</a4>
+		<answer>مجید حسابی</answer>
+	</id>
+	<id num="4">
+		<image>farad</image>
+		<a1>نیلز بور</a1>
+		<a2>پیر کوری</a2>
+		<a3>مایکل فارادی</a3>
+		<a4>ماکس پلانک</a4>
+		<answer>مایکل فارادی</answer>
+	</id>
+
+</question>
